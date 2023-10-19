@@ -1,4 +1,4 @@
-https://deanta217.github.io/ipa-files
+https://deanta217.github.io/iOS-Applications
 
 click the links to install the app
 
