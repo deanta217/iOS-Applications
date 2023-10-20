@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.hdoplay.apt</string>
+                <string>xyz.cypwn.sm64ios-60fps</string>
                 <key>bundle-version</key>
-                <string>1.0.2</string>
+                <string>1.2.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Hdo Play</string>
+                <string>SuperMario64</string>
             </dict>
         </dict>
     </array>
